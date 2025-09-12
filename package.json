@@ -1,6 +1,6 @@
 {
   "name": "@chittyos/shared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ChittyOS Shared Dependencies Framework - Consolidated dependencies for all ChittyOS components",
   "type": "module",
   "main": "./dist/index.js",
